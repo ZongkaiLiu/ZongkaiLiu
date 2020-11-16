@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning atomic physics, quantum many body theory and machine learning at USTC.  
+
+[![Zongkai's github stats](https://github-readme-stats.vercel.app/api?username=ZongkaiLiu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
