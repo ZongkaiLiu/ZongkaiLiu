@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning atomic physics, quantum many body theory and machine learning at USTC.  
+- 📫 My ORCid is 0000-0001-8851-0715.
+
+
 
 [![Zongkai's github stats](https://github-readme-stats.vercel.app/api?username=ZongkaiLiu&show_icons=true&theme=radical)](https://github.com/ZongkaiLiu/github-readme-stats)
 
