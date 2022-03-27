@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Zongkai's github stats](https://github-readme-stats.vercel.app/api?username=ZongkaiLiu&show_icons=true&theme=radical)](https://github.com/ZongkaiLiu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZongkaiLiu)](https://github.com/ZongkaiLiu/github-readme-stats)
+### My Skill Set
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
