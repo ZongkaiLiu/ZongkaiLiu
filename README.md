@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning atomic physics, quantum many body theory and machine learning at USTC.  
 
-[![Zongkai's github stats](https://github-readme-stats.vercel.app/api?username=ZongkaiLiu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Zongkai's github stats](https://github-readme-stats.vercel.app/api?username=ZongkaiLiu&show_icons=true&theme=radical)](https://github.com/ZongkaiLiu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZongkaiLiu)](https://github.com/ZongkaiLiu/github-readme-stats)
